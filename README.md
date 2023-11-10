@@ -1,7 +1,7 @@
 # CPSC 323 - Compilers & Languages
 
 ## Programming Assignment 1
-### Group Memebers:
+### Group Members:
 * Angel Cervantes
 * Christopher Liwanag
 * Shuo Wang
